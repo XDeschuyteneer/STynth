@@ -1,5 +1,7 @@
 # STynth
 
+![CI](https://github.com/XDeschuyteneer/STynth/workflows/CI/badge.svg)
+
 ## Intro
 
 The goal is to play around with a ST32 nucleo board
